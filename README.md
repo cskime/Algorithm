@@ -8,8 +8,8 @@
 | 문제                                                         | 출제                           | 난이도 | 출처                                                     | Note |
 | ------------------------------------------------------------ | ------------------------------ | ------ | -------------------------------------------------------- | ---- |
 | [크레인 인형 뽑기 게임](https://github.com/cskime/Algorithm/blob/master/kakao/크레인-인형-뽑기-게임.md) | 2019 카카오 개발자 겨울 인턴십 | Level1 | https://programmers.co.kr/learn/courses/30/lessons/64061 |      |
-| [튜플](https://github.com/cskime/Algorithm/blob/master/kakao/튜플.md) | 2019 카카오 개발자 겨울 인턴십 | Level2 | https://programmers.co.kr/learn/courses/30/lessons/64065 |      |
-| 비밀지도                                                     | 2018 KAKAO BLIND RECRUITMENT   | Level1 | https://programmers.co.kr/learn/courses/30/lessons/17681 |      |
+| [튜플](https://github.com/cskime/Algorithm/blob/master/kakao/비밀지도.md) | 2019 카카오 개발자 겨울 인턴십 | Level2 | https://programmers.co.kr/learn/courses/30/lessons/64065 |      |
+| [비밀지도](https://github.com/cskime/Algorithm/blob/master/kakao/튜플.md) | 2018 KAKAO BLIND RECRUITMENT   | Level1 | https://programmers.co.kr/learn/courses/30/lessons/17681 |      |
 | 다트게임                                                     | 2018 KAKAO BLIND RECRUITMENT   | Level1 | https://programmers.co.kr/learn/courses/30/lessons/17682 |      |
 | 뉴스 클러스터링                                              | 2018 KAKAO BLIND RECRUITMENT   | Level2 | https://programmers.co.kr/learn/courses/30/lessons/17677 |      |
 | 프렌즈 블록                                                  | 2018 KAKAO BLIND RECRUITMENT   | Level2 | https://programmers.co.kr/learn/courses/30/lessons/17679 |      |
