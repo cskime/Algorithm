@@ -1,11 +1,31 @@
 # Algorithm Study
-> 이 저장소에 올리는 알고리즘 풀이들은 프로그래머스 코딩테스트 연습에서 제공하는 문제를 풀고 공부 목적으로 정리하는 것입니다. 비영리적, 비상업적 용도로 사용함을 밝힙니다.
+> 이 저장소에 올리는 알고리즘 풀이들은 프로그래머스 코딩테스트 연습에서 제공하는 문제를 풀고 공부 목적으로 정리하는 것입니다. 비영리적, 비상업적 용도로 사용함을 밝힙니다 🙂
 >
-> 문제 출처 : https://programmers.co.kr/learn/challenges
+> - Language : Swift
+> - 출처 : https://programmers.co.kr/learn/challenges
+
+## Table Of Contents
+
+- 코딩테스트 고득점 Kit
+- [Kakao](https://github.com/cskime/Algorithm#kakao)
+
+##코딩테스트 고득점 Kit
+
+> 출처 : https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
+
+### Stack/Queue
+
+| 문제                                                         | 난이도 | 링크                                                     | Note |
+| ------------------------------------------------------------ | ------ | -------------------------------------------------------- | ---- |
+| [탑](https://github.com/cskime/Algorithm/blob/master/StackQueue/탑.md) | Level2 | https://programmers.co.kr/learn/courses/30/lessons/42588 |      |
+| [다리를 지나는 트럭](https://github.com/cskime/Algorithm/blob/master/StackQueue/다리를-지나는-트럭.md) | Level2 | https://programmers.co.kr/learn/courses/30/lessons/42583 |      |
+| [기능개발](https://github.com/cskime/Algorithm/blob/master/StackQueue/기능개발.md) | Level2 | https://programmers.co.kr/learn/courses/30/lessons/42586 |      |
+| [쇠막대기](https://github.com/cskime/Algorithm/blob/master/StackQueue/쇠막대기.md) | Level2 | https://programmers.co.kr/learn/courses/30/lessons/42585 |      |
+| [주식가격](https://github.com/cskime/Algorithm/blob/master/StackQueue/주식가격.md) | Level2 | https://programmers.co.kr/learn/courses/30/lessons/42584 |      |
 
 ## Kakao
 
-| 문제                                                         | 출제                           | 난이도 | 출처                                                     | Note |
+| 문제                                                         | 출제                           | 난이도 | 링크                                                     | Note |
 | ------------------------------------------------------------ | ------------------------------ | ------ | -------------------------------------------------------- | ---- |
 | [크레인 인형 뽑기 게임](https://github.com/cskime/Algorithm/blob/master/kakao/크레인-인형-뽑기-게임.md) | 2019 카카오 개발자 겨울 인턴십 | Level1 | https://programmers.co.kr/learn/courses/30/lessons/64061 |      |
 | [튜플](https://github.com/cskime/Algorithm/blob/master/kakao/비밀지도.md) | 2019 카카오 개발자 겨울 인턴십 | Level2 | https://programmers.co.kr/learn/courses/30/lessons/64065 |      |
