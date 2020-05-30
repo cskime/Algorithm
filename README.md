@@ -9,6 +9,7 @@
 - 코딩테스트 고득점 Kit
   - [Stack/Queue](https://github.com/cskime/Algorithm#stackqueue)
 - [Kakao](https://github.com/cskime/Algorithm#kakao)
+- [Summer/Winter Coding](https://github.com/cskime/Algorithm#summerwinter-coding)
 
 ## 코딩테스트 고득점 Kit
 
@@ -38,3 +39,8 @@
 | [문자열 압축](https://github.com/cskime/Algorithm/blob/master/kakao/문자열압축.md) | 2020 KAKAO BLIND RECRUITMENT   | Level2 | https://programmers.co.kr/learn/courses/30/lessons/60057 |      |
 | [괄호 변환](https://github.com/cskime/Algorithm/blob/master/kakao/괄호변환.md) | 2020 KAKAO BLIND RECRUITMENT   | Level2 | https://programmers.co.kr/learn/courses/30/lessons/60058 |      |
 
+## Summer/Winter Coding
+
+| 문제                                                         | 출제                        | 난이도 | 링크                                                     | Note |
+| ------------------------------------------------------------ | --------------------------- | ------ | -------------------------------------------------------- | ---- |
+| [예산](https://github.com/cskime/Algorithm/blob/master/SummerWinter/예산.md) | Summer/Winter Coding(~2018) | Level1 | https://programmers.co.kr/learn/courses/30/lessons/12982 |      |
