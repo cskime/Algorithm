@@ -7,9 +7,10 @@
 ## Table Of Contents
 
 - 코딩테스트 고득점 Kit
+  - [Stack/Queue](https://github.com/cskime/Algorithm#stackqueue)
 - [Kakao](https://github.com/cskime/Algorithm#kakao)
 
-##코딩테스트 고득점 Kit
+## 코딩테스트 고득점 Kit
 
 > 출처 : https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 
