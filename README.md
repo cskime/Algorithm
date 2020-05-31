@@ -44,3 +44,4 @@
 | 문제                                                         | 출제                        | 난이도 | 링크                                                     | Note |
 | ------------------------------------------------------------ | --------------------------- | ------ | -------------------------------------------------------- | ---- |
 | [예산](https://github.com/cskime/Algorithm/blob/master/SummerWinter/예산.md) | Summer/Winter Coding(~2018) | Level1 | https://programmers.co.kr/learn/courses/30/lessons/12982 |      |
+| [멀쩡한 블록](https://github.com/cskime/Algorithm/blob/master/SummerWinter/멀쩡한-블록.md) | Summer/Winter Coding(2019)  | Level2 | https://programmers.co.kr/learn/courses/30/lessons/62048 |      |
