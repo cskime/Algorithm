@@ -44,4 +44,8 @@
 | 문제                                                         | 출제                        | 난이도 | 링크                                                     | Note |
 | ------------------------------------------------------------ | --------------------------- | ------ | -------------------------------------------------------- | ---- |
 | [예산](https://github.com/cskime/Algorithm/blob/master/SummerWinter/예산.md) | Summer/Winter Coding(~2018) | Level1 | https://programmers.co.kr/learn/courses/30/lessons/12982 |      |
-| [멀쩡한 사각형](https://github.com/cskime/Algorithm/blob/master/SummerWinter/멀쩡한-사각형.md) | Summer/Winter Coding(2019)  | Level2 | https://programmers.co.kr/learn/courses/30/lessons/62048 |      |
+| [점프와 순간이동](https://github.com/cskime/Algorithm/blob/master/SummerWinter/점프와-순간이동.md) | Summer/Winter Coding(~2018) | Level2 | https://programmers.co.kr/learn/courses/30/lessons/12980 |      |
+| [스킬트리](https://github.com/cskime/Algorithm/blob/master/SummerWinter/스킬트리.md) | Summer/Winter Coding(~2018) | Level2 | https://programmers.co.kr/learn/courses/30/lessons/49993 |      |
+| [소수 구하기](https://github.com/cskime/Algorithm/blob/master/SummerWinter/소수구하기.md) | Summer/Winter Coding(~2018) | Level2 | https://programmers.co.kr/learn/courses/30/lessons/12977 |      |
+| [영어 끝말잇기](https://github.com/cskime/Algorithm/blob/master/SummerWinter/영어-끝말잇기.md) | Summer/Winter Coding(~2018) | Level2 | https://programmers.co.kr/learn/courses/30/lessons/12981 |      |
+| <br />[멀쩡한 사각형](https://github.com/cskime/Algorithm/blob/master/SummerWinter/멀쩡한-사각형.md) | Summer/Winter Coding(2019)  | Level2 | https://programmers.co.kr/learn/courses/30/lessons/62048 |      |
