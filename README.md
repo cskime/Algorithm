@@ -50,5 +50,6 @@
 | [영어 끝말잇기](https://github.com/cskime/Algorithm/blob/master/SummerWinter/영어-끝말잇기.md) | Summer/Winter Coding(~2018) | Level2 | [Link](https://programmers.co.kr/learn/courses/30/lessons/12981) | Stack         |
 | [방문 길이](https://github.com/cskime/Algorithm/blob/master/SummerWinter/방문길이.md) | Summer/Winter Coding(~2018) | Level3 | [Link](https://programmers.co.kr/learn/courses/30/lessons/49994) |               |
 | [숫자 게임](https://github.com/cskime/Algorithm/blob/master/SummerWinter/숫자게임.md) | Summer/Winter Coding(~2018) | Level3 | [Link](https://programmers.co.kr/learn/courses/30/lessons/12987) | Binary Search |
+| [기지국 설치](https://github.com/cskime/Algorithm/blob/master/SummerWinter/기지국설치.md) | Summer/Winter Coding(~2018) | Level3 | [Link](https://programmers.co.kr/learn/courses/30/lessons/12979) |               |
 | <br />[멀쩡한 사각형](https://github.com/cskime/Algorithm/blob/master/SummerWinter/멀쩡한-사각형.md) | Summer/Winter Coding(2019)  | Level2 | [Link](https://programmers.co.kr/learn/courses/30/lessons/62048) | GCD           |
 | [종이 접기](https://github.com/cskime/Algorithm/blob/master/SummerWinter/종이접기.md) | Summer/Winter Coding(2019)  | Level3 | [Link](https://programmers.co.kr/learn/courses/30/lessons/62049) |               |
